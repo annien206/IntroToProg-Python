@@ -1,0 +1,4 @@
+Do Assignment05,High
+Watch TV,Low
+Sleep,Low
+Sleep,Low
